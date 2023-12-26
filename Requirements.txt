@@ -1,0 +1,4 @@
+pandas
+openCV
+numpy
+time
